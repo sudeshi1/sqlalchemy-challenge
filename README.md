@@ -10,8 +10,11 @@
 ### Tools:
 
 *SQLAlchemy - SQLAlchemy ORM Queries*
+
 *Python - Pandas, Matplotlib*
+
 *Jupyter Notebook*
+
 *Flask API*
 
 ## Background
@@ -40,7 +43,7 @@ Climate Analysis for a *long holiday vacation* in **Honolulu, Hawaii**
 * Plot the results using the DataFrame plot method
 * Use Pandas to print the summary statistics for the precipitation data
 
-![Precipitation Analysis](../images/precipitation.png)
+![Precipitation Analysis](images/precipitation.png)
 
 **Station Analysis**
 * Design a query to calculate the total number of stations in the dataset
@@ -53,7 +56,7 @@ Climate Analysis for a *long holiday vacation* in **Honolulu, Hawaii**
     * Query the last 12 months of temperature observation data for this station
     * Plot the results as a histogram with bins=12
 
-![Station Analysis](../images/temp_vs_freq.png)
+![Station Analysis](/images/temp_vs_freq.png)
 
 **Close out your session**
 
